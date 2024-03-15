@@ -3,11 +3,15 @@
 
 Este script de Python convierte datos espectroscópicos generados por el programa LabSolutions IR en un formato compatible con IRsolution.
 
+## Descarga
+
+Puedes descargar este repositorio seleccionando el botón CODE y eligiendo "Download ZIP" o clonando el repositorio en la modalidad que prefieras.
+
 ## Uso
 
-1. Descarga el archivo ejecutable para tu sistema operativo desde la carpeta correspondiente:
-   - **Para Windows:** [IR_conversor.exe](windows/dist/IR_conversor.exe)
-   - **Para Linux:** [IR_conversor](linux/dist/IR_conversor)
+1. Ejecutar el archivo para tu sistema operativo desde la carpeta correspondiente:
+   - **Para Windows:** [windows/dist/IR_conversor.exe](windows/dist/IR_conversor.exe)
+   - **Para Linux:** [linux/dist/IR_conversor](linux/dist/IR_conversor)
 2. También puedes acceder al código fuente en Python si prefieres:
    - [IR_conversor.py](IR_conversor.py)
 4. Ejecuta el archivo `IR_conversor` o `IR_conversor.py` según tu preferencia.
