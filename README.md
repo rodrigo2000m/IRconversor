@@ -5,11 +5,11 @@ Este script de Python convierte datos espectroscópicos generados por el program
 
 ## Descarga
 
-Puedes descargar este repositorio seleccionando el botón CODE y eligiendo "Download ZIP" o clonando el repositorio en la modalidad que prefieras.
+Puedes clonar este repositorio o descargar únicamente los archivos ejecutables desde la opción Releases.
 
 ## Uso
 
-1. Ejecutar el archivo para tu sistema operativo desde la carpeta correspondiente:
+1. Ejecutar el archivo para tu sistema operativo desde la carpeta correspondiente (si descargaste todo el código, sino únicamente tienes el ejecutable):
    - **Para Windows:** [windows/dist/IR_conversor.exe](windows/dist/IR_conversor.exe)
    - **Para Linux:** [linux/dist/IR_conversor](linux/dist/IR_conversor)
 2. También puedes acceder al código fuente en Python si prefieres:
